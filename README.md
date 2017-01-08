@@ -1,6 +1,6 @@
-amicable-numbers
 # amicable-numbers
 
+[![Build Status](https://travis-ci.org/davidbejar/amicable-numbers.svg?branch=master)](https://travis-ci.org/davidbejar/amicable-numbers)
 
 **Solution to [problem 21](https://projecteuler.net/problem=21) of Project Euler about Amicable Numbers.**
 
